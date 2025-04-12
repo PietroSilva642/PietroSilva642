@@ -81,7 +81,14 @@
 </p>
  <div>
 <div>
-  <a href="https://github.com/PietroSilva642">
+  
+   GitHub Stats 🚀
+   <p align="center">
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center">
+   <a href="https://github.com/PietroSilva642">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroSilva642&layout=compact&langs_count=7&theme=dracula"/>
   </a>
   <a href="https://github.com/PietroSilva642">
