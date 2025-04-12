@@ -5,45 +5,53 @@
 - 🎓 I've already learned: SAP e SAP Activate, Programming logic: Dive into programming with JavaScript, Staring in Programming: Career and first steps, Programming logic: explore functions and lists, Git and GitHub, Quality Assurance
 - 📘 I’m currently learning:
    Cybersecurity, Python, C#, PHP e TDD, Python e TDD, C++ e TDD, Cypress
- 
+
 💡 The Tech Behind My Projects 💡
 
 <p align="center">
   <div align="center">
-    <a href="https://github.com/PietroSilva642">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-      <sub><strong>JavaScript</strong></sub>
-    </a>
-    <a href="https://github.com/PietroSilva642">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-      <sub><strong>Git</strong></sub>
-    </a>
-    <a href="https://github.com/PietroSilva642">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-      <sub><strong>GitHub</strong></sub>
-    </a>
-    <a href="https://github.com/PietroSilva642">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
-      <sub><strong>Selenium</strong></sub>
-    </a>
-    <a href="https://github.com/PietroSilva642">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-      <sub><strong>Python</strong></sub>
-    </a>
-    <a href="https://github.com/PietroSilva642">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-      <sub><strong>C#</strong></sub>
-    </a>
-    <a href="https://github.com/PietroSilva642">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-      <sub><strong>PHP</strong></sub>
-    </a>
-    <a href="https://github.com/PietroSilva642">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-      <sub><strong>C++</strong></sub>
-    </a>
+    <table>
+      <tr>
+        <td align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>
+          <sub><strong>JavaScript</strong></sub>
+        </td>
+        <td align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>
+          <sub><strong>Git</strong></sub>
+        </td>
+        <td align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>
+          <sub><strong>GitHub</strong></sub>
+        </td>
+        <td align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/><br/>
+          <sub><strong>Selenium</strong></sub>
+        </td>
+        <td align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>
+          <sub><strong>Python</strong></sub>
+        </td>
+        <td align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br/>
+          <sub><strong>C#</strong></sub>
+        </td>
+        <td align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br/>
+          <sub><strong>PHP</strong></sub>
+        </td>
+        <td align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br/>
+          <sub><strong>C++</strong></sub>
+        </td>
+      </tr>
+    </table>
   </div>
 </p>
+
+   
+  
+    
 
 
         
